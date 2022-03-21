@@ -8,7 +8,9 @@ Para garantir um estilo de vida saudável, a OMS recomenda a prática regular de
 <br>
 Neste desafio, utilizaremos dados de uma pesquisa realizada anualmente nos Estados Unidos para avaliar (1) qual o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006, e (2) se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população.
 <br>
+
 ## Aspectos da análise
+
 <br>
 1. Qual o tipo de estudo está sendo empregado pelo NHANES? experimental ou observacional?
 2. Discuta as possíveis fontes de viés presentes na análise
